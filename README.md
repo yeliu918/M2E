@@ -3,7 +3,7 @@ It's the code for paper ["Multi-View Multi-Graph Embedding for Brain Network Clu
 
 To run the code, just execute the following command using Matlab:
 ```
-M2E_demo.m"
+M2E_demo.m
 ```
 
 The dataset is private. So we just provide a random generated dataset "./demo_dataset.mat". 
